@@ -1,0 +1,7 @@
+.kotak {
+  background: white;
+  margin-top: -20px;
+  border-radius: 10px;
+  border: 1px solid white;
+  box-shadow: 0.75px 0.75px 0.75px 0.75px #808080;
+}
